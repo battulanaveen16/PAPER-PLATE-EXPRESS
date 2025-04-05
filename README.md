@@ -3,7 +3,7 @@ Paper Plates Delivered to Your Doorstep in Vellore Quality disposable tableware 
 HTML Structure
 The HTML document is divided into several key sections:
 
-Header/Navigation Bar:
+**Header/Navigation Bar:**
 
 Contains the logo and navigation menu
 
