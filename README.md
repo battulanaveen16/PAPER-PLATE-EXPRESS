@@ -3,7 +3,7 @@ Paper Plates Delivered to Your Doorstep in Vellore Quality disposable tableware 
 HTML Structure
 The HTML document is divided into several key sections:
 
-**Header/Navigation Bar:**
+****Header/Navigation Bar:****
 
 Contains the logo and navigation menu
 
@@ -11,37 +11,37 @@ Responsive design with hamburger menu for mobile devices
 
 Fixed position so it stays visible while scrolling
 
-Hero Section:
+**Hero Section:**
 
 Full-width banner with background image and call-to-action
 
 Prominent headline and order button
 
-Features Section:
+**Features Section:**
 
 Three-column layout highlighting service benefits
 
 Icons and short descriptions
 
-Products Section:
+**Products Section:**
 
 Grid display of available paper plate products
 
 Each product has an image, description, price, and order button
 
-About Us Section:
+**About Us Section:**
 
 Company story with image and text content
 
 Two-column layout on desktop
 
-Delivery Information:
-
+**Delivery Information:
+**
 Table showing delivery zones, fees, and minimum orders
 
 Embedded Google Maps showing service area
 
-Order Form:
+**Order Form:**
 
 Comprehensive form for placing orders
 
@@ -49,19 +49,19 @@ Fields for customer info, delivery details, and product selection
 
 Confirmation message that appears after submission
 
-FAQ Section:
+**FAQ Section:**
 
 Accordion-style expandable questions and answers
 
 Interactive toggle functionality
 
-Contact Section:
+**Contact Section:**
 
 Contact information with icons
 
 Phone, email, and address details
-
-Footer:
+**
+Footer:**
 
 Additional navigation links
 
